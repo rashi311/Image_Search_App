@@ -13,7 +13,7 @@ A simple web application that allows users to search for images using keywords a
 ### Search Page
 
 <p align="center">
-  <img src="images/screenshot4.png" alt="Search Page" width="600" />
+  <img src="Images/screenshot4.png" alt="Search Page" width="600" />
   <br>
   <em>Figure 1: Image Search input and button</em>
 </p>
@@ -21,7 +21,7 @@ A simple web application that allows users to search for images using keywords a
 ### Result Page
 
 <p align="center">
-  <img src="images/screenshot2.png" alt="Results Page" width="600" />
+  <img src="Images/screenshot2.png" alt="Results Page" width="600" />
   <br>
   <em>Figure 2: Image results displayed in gallery format</em>
 </p>
@@ -36,19 +36,19 @@ A simple web application that allows users to search for images using keywords a
 
 2. Open the index.html file in your preferred browser.
 
-  (No backend required — purely front-end app)
-
 Usage
 • Enter a keyword in the search box.
-• Click the Search button.
-• View the image results displayed below.
+<br>• Click the Search button.
+<br>• View the image results displayed below.
+
+
+
 
 Technologies Used
 • HTML
-• CSS
-• JavaScript
-• Unsplash API
-
+<br>• CSS
+<br>• JavaScript
+<br>• Unsplash API
 
 Folder Structure
 
