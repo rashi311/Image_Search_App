@@ -21,7 +21,7 @@ A simple web application that allows users to search for images using keywords a
 ### Result Page
 
 <p align="center">
-  <img src="Images/screenshot2.png" alt="Results Page" width="600" />
+  <img src="Images/screenshot5.png" alt="Results Page" width="600" />
   <br>
   <em>Figure 2: Image results displayed in gallery format</em>
 </p>
@@ -36,21 +36,20 @@ A simple web application that allows users to search for images using keywords a
 
 2. Open the index.html file in your preferred browser.
 
-Usage
-• Enter a keyword in the search box.
-<br>• Click the Search button.
-<br>• View the image results displayed below.
+## Usage
 
+- Enter a keyword in the search box.  
+- Click the **Search** button.  
+- View the image results displayed below.
 
+## Technologies Used
 
+- HTML  
+- CSS  
+- JavaScript  
+- Unsplash API
 
-Technologies Used
-• HTML
-<br>• CSS
-<br>• JavaScript
-<br>• Unsplash API
-
-Folder Structure
+## Folder Structure
 
 Image_Search_App/
 ├── images/           # Screenshots and assets
