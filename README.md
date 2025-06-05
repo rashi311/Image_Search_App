@@ -49,9 +49,15 @@ A simple web application that allows users to search for images using keywords a
 - JavaScript  
 - Unsplash API
 
-  
-<pre> ## 📁 Folder Structure ``` Image_Search_App/ ├── Images/ # Screenshots and assets ├── index.html # Main HTML file ├── style.css # Stylesheet ├── script.js # JavaScript file handling search functionality └── README.md # Project documentation ``` </pre>
 
+ <pre>
+Image Seach app/
+├── Images
+├── index.html
+├── style.css
+├── script.js
+
+ </pre>
 
 
 
