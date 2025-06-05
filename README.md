@@ -51,11 +51,14 @@ A simple web application that allows users to search for images using keywords a
 
 ## Folder Structure
 
+
 Image_Search_App/
-├── images/           # Screenshots and assets
-├── index.html        # Main HTML file
-├── style.css         # Stylesheet
-├── script.js         # JavaScript file handling search functionality
-└── README.md         # Project documentation
+├── Images/ # Screenshots and assets
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+├── script.js # JavaScript file handling search functionality
+└── README.md # Project documentation
+
+
 
 
