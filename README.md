@@ -53,9 +53,9 @@ A simple web application that allows users to search for images using keywords a
  <pre>
 Image Seach app/
 ├── Images   #screenshot
-├── index.html  ## Main HTML file
-├── style.css   ##stylesheet
-├── script.js  ## JavaScript file handling search functionality
+├── index.html  # Main HTML file
+├── style.css   #stylesheet
+├── script.js  # JavaScript file handling search functionality
 
  </pre>
 
